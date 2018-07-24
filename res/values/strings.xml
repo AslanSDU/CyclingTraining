@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cycling Training</string>
+    <string name="duration">Duration</string>
+    <string name="distance">Distance</string>
+    <string name="remaining">Remaining</string>
+    <string name="speed">Speed</string>
+    <string name="cycling">Cycling</string>
+    <string name="goal">Distance Goal</string>
+    <string name="map">Map</string>
+    <string name="delete">Delete</string>
+
+</resources>

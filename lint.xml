@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ButtonStyle" severity="ignore" />
+    <issue id="DefaultLocale" severity="ignore" />
+    <issue id="DisableBaselineAlignment" severity="ignore" />
+    <issue id="HardcodedText" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="RtlEnabled" severity="ignore" />
+    <issue id="RtlHardcoded" severity="ignore" />
+    <issue id="UseCompoundDrawables" severity="ignore" />
+    <issue id="ViewHolder" severity="ignore" />
+</lint>
